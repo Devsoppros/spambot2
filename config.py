@@ -1,7 +1,7 @@
 import os
 
 class API:
-    API_ID = int("8460373")
+    API_ID = int(8460373)
     API_HASH = "83d8e423197251216303abfcbed9e820"
 
 class TOKENS:
